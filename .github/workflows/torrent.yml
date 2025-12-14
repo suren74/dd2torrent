@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
+  name: "test"
+  comment: "test"
+  url: "blob:https://www.pinterest.com/9338fe0c-d3a3-4a30-9f8c-f2b119453b6f"
+  file_name: "9338fe0c-d3a3-4a30-9f8c-f2b119453b6f"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
