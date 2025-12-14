@@ -5,7 +5,7 @@ on:
       - master
       
 env:
-  name: "test"
+  name: "test1"
   comment: "test"
   url: "blob:https://www.pinterest.com/9338fe0c-d3a3-4a30-9f8c-f2b119453b6f"
   file_name: "9338fe0c-d3a3-4a30-9f8c-f2b119453b6f"
